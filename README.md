@@ -1,4 +1,4 @@
-# Redancy-UI-Assignment
+# Radancy-UI-Assignment
 
 **Files**
 - **Index:** [index.html](index.html) — main entry file for the static site.
